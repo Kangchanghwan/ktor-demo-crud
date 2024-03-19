@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "ktor_sample_crud API"
+  description: "ktor_sample_crud API"
+  version: "1.0.0"
+servers:
+- url: "https://ktor_sample_crud"
+paths: {}
